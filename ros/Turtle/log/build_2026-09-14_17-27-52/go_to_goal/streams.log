@@ -1,0 +1,23 @@
+[3.016s] Invoking command in 'D:\ros\Turtle\go_to_goal': PIXI_PROMPT=(Turtle) PSModulePath=C:\Users\ammar\OneDrive\المستندات\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\PowerShell\Modules\ PYTHONPATH=D:\ros\Turtle\build\go_to_goal\prefix_override;D:\ros\Turtle\.pixi\envs\default\Lib\site-packages\colcon_core\task\python\colcon_distutils_commands;D:\ros\Turtle\install\go_to_goal\Lib\site-packages;%PYTHONPATH% D:\ros\Turtle\.pixi\envs\default\python.exe -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ..\build\go_to_goal build --build-base D:\ros\Turtle\build\go_to_goal\build install --record D:\ros\Turtle\build\go_to_goal\install.log --single-version-externally-managed install_data
+[3.625s] running egg_info
+[3.656s] writing ..\build\go_to_goal\go_to_goal.egg-info\PKG-INFO
+[3.656s] writing dependency_links to ..\build\go_to_goal\go_to_goal.egg-info\dependency_links.txt
+[3.656s] writing entry points to ..\build\go_to_goal\go_to_goal.egg-info\entry_points.txt
+[3.656s] writing requirements to ..\build\go_to_goal\go_to_goal.egg-info\requires.txt
+[3.656s] writing top-level names to ..\build\go_to_goal\go_to_goal.egg-info\top_level.txt
+[3.750s] reading manifest file '..\build\go_to_goal\go_to_goal.egg-info\SOURCES.txt'
+[3.750s] writing manifest file '..\build\go_to_goal\go_to_goal.egg-info\SOURCES.txt'
+[3.750s] running build
+[3.750s] running build_py
+[3.750s] running install
+[3.750s] running install_lib
+[3.797s] running install_data
+[3.797s] copying resource\go_to_goal -> D:\ros\Turtle\install\go_to_goal\share\ament_index\resource_index\packages
+[3.797s] copying package.xml -> D:\ros\Turtle\install\go_to_goal\share\go_to_goal
+[3.797s] running install_egg_info
+[3.844s] Copying ..\build\go_to_goal\go_to_goal.egg-info to D:\ros\Turtle\install\go_to_goal\Lib\site-packages\go_to_goal-0.0.0-py3.12.egg-info
+[3.875s] running install_scripts
+[3.953s] Installing move_node-script.py script to D:\ros\Turtle\install\go_to_goal\lib\turtlesim
+[3.953s] Installing move_node.exe script to D:\ros\Turtle\install\go_to_goal\lib\turtlesim
+[3.953s] writing list of installed files to 'D:\ros\Turtle\build\go_to_goal\install.log'
+[3.984s] Invoked command in 'D:\ros\Turtle\go_to_goal' returned '0': PIXI_PROMPT=(Turtle) PSModulePath=C:\Users\ammar\OneDrive\المستندات\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\PowerShell\Modules\ PYTHONPATH=D:\ros\Turtle\build\go_to_goal\prefix_override;D:\ros\Turtle\.pixi\envs\default\Lib\site-packages\colcon_core\task\python\colcon_distutils_commands;D:\ros\Turtle\install\go_to_goal\Lib\site-packages;%PYTHONPATH% D:\ros\Turtle\.pixi\envs\default\python.exe -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ..\build\go_to_goal build --build-base D:\ros\Turtle\build\go_to_goal\build install --record D:\ros\Turtle\build\go_to_goal\install.log --single-version-externally-managed install_data
