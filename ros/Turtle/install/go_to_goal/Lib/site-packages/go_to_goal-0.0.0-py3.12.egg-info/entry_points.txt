@@ -1,0 +1,2 @@
+[console_scripts]
+move_node = go_to_goal.move:main

@@ -1,0 +1,34 @@
+[3.172s] Invoking command in 'D:\ros\Turtle\go_to_goal': PIXI_PROMPT=(Turtle) PSModulePath=C:\Users\ammar\OneDrive\المستندات\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\PowerShell\Modules\ PYTHONPATH=D:\ros\Turtle\build\turtlesim\prefix_override;D:\ros\Turtle\.pixi\envs\default\Lib\site-packages\colcon_core\task\python\colcon_distutils_commands;D:\ros\Turtle\install\turtlesim\Lib\site-packages;%PYTHONPATH% D:\ros\Turtle\.pixi\envs\default\python.exe -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ..\build\turtlesim build --build-base D:\ros\Turtle\build\turtlesim\build install --record D:\ros\Turtle\build\turtlesim\install.log --single-version-externally-managed install_data
+[3.797s] running egg_info
+[3.828s] creating ..\build\turtlesim\turtlesim.egg-info
+[3.828s] writing ..\build\turtlesim\turtlesim.egg-info\PKG-INFO
+[3.828s] writing dependency_links to ..\build\turtlesim\turtlesim.egg-info\dependency_links.txt
+[3.828s] writing entry points to ..\build\turtlesim\turtlesim.egg-info\entry_points.txt
+[3.828s] writing requirements to ..\build\turtlesim\turtlesim.egg-info\requires.txt
+[3.828s] writing top-level names to ..\build\turtlesim\turtlesim.egg-info\top_level.txt
+[3.828s] writing manifest file '..\build\turtlesim\turtlesim.egg-info\SOURCES.txt'
+[3.906s] reading manifest file '..\build\turtlesim\turtlesim.egg-info\SOURCES.txt'
+[3.922s] writing manifest file '..\build\turtlesim\turtlesim.egg-info\SOURCES.txt'
+[3.922s] running build
+[3.922s] running build_py
+[3.922s] creating D:\ros\Turtle\build\turtlesim\build\lib\go_to_goal
+[3.922s] copying go_to_goal\move.py -> D:\ros\Turtle\build\turtlesim\build\lib\go_to_goal
+[3.922s] copying go_to_goal\__init__.py -> D:\ros\Turtle\build\turtlesim\build\lib\go_to_goal
+[3.922s] running install
+[3.922s] running install_lib
+[3.953s] creating D:\ros\Turtle\install\turtlesim\Lib\site-packages\go_to_goal
+[3.953s] copying D:\ros\Turtle\build\turtlesim\build\lib\go_to_goal\move.py -> D:\ros\Turtle\install\turtlesim\Lib\site-packages\go_to_goal
+[3.953s] copying D:\ros\Turtle\build\turtlesim\build\lib\go_to_goal\__init__.py -> D:\ros\Turtle\install\turtlesim\Lib\site-packages\go_to_goal
+[3.968s] byte-compiling D:\ros\Turtle\install\turtlesim\Lib\site-packages\go_to_goal\move.py to move.cpython-312.pyc
+[3.968s] byte-compiling D:\ros\Turtle\install\turtlesim\Lib\site-packages\go_to_goal\__init__.py to __init__.cpython-312.pyc
+[3.968s] running install_data
+[3.968s] creating D:\ros\Turtle\install\turtlesim\share\ament_index\resource_index\packages
+[3.968s] copying resource\turtlesim -> D:\ros\Turtle\install\turtlesim\share\ament_index\resource_index\packages
+[3.968s] copying package.xml -> D:\ros\Turtle\install\turtlesim\share\turtlesim
+[3.968s] running install_egg_info
+[4.015s] Copying ..\build\turtlesim\turtlesim.egg-info to D:\ros\Turtle\install\turtlesim\Lib\site-packages\turtlesim-0.0.0-py3.12.egg-info
+[4.015s] running install_scripts
+[4.109s] Installing move_node-script.py script to D:\ros\Turtle\install\turtlesim\lib\turtlesim
+[4.109s] Installing move_node.exe script to D:\ros\Turtle\install\turtlesim\lib\turtlesim
+[4.109s] writing list of installed files to 'D:\ros\Turtle\build\turtlesim\install.log'
+[4.140s] Invoked command in 'D:\ros\Turtle\go_to_goal' returned '0': PIXI_PROMPT=(Turtle) PSModulePath=C:\Users\ammar\OneDrive\المستندات\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\PowerShell\Modules\ PYTHONPATH=D:\ros\Turtle\build\turtlesim\prefix_override;D:\ros\Turtle\.pixi\envs\default\Lib\site-packages\colcon_core\task\python\colcon_distutils_commands;D:\ros\Turtle\install\turtlesim\Lib\site-packages;%PYTHONPATH% D:\ros\Turtle\.pixi\envs\default\python.exe -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ..\build\turtlesim build --build-base D:\ros\Turtle\build\turtlesim\build install --record D:\ros\Turtle\build\turtlesim\install.log --single-version-externally-managed install_data
